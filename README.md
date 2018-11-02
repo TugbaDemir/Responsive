@@ -1,1 +1,1 @@
-# Responsive
+# Responsive Design with Bootstrap
